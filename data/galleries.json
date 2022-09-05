@@ -1,0 +1,743 @@
+{
+    "galleries": [
+    {
+        "name": "music",
+        "images": [
+        {
+            "source": "images/portfolio/music/5D4_0267 copy.jpg",
+            "caption": ""
+        },
+        {
+            "source": "images/portfolio/music/SchoolboyQ.jpg",
+            "caption": ""
+        },
+        {
+            "source": "images/portfolio/music/RunTheJewels.jpg",
+            "caption": ""
+        },
+        {
+            "source": "images/portfolio/music/LCDSoundsystem.jpg",
+            "caption": ""
+        },
+        {
+            "source": "images/portfolio/music/GirlTalk.jpg",
+            "caption": ""
+        },
+        {
+            "source": "images/portfolio/music/GaryClarkJr.jpg",
+            "caption": ""
+        },
+        {
+            "source": "images/portfolio/music/AllTimeLow.jpg",
+            "caption": ""
+        },
+        {
+            "source": "images/portfolio/music/Pharrell.jpg",
+            "caption": ""
+        },
+        {
+            "source": "images/portfolio/music/BruceSpringsteen&theEStreetBand.jpg",
+            "caption": ""
+        },
+        {
+            "source": "images/portfolio/music/Kaytranada.jpg",
+            "caption": ""
+        },
+        {
+            "source": "images/portfolio/music/BackstreetBoys.jpg",
+            "caption": ""
+        },
+        {
+            "source": "images/portfolio/music/KendrickLamar.jpg",
+            "caption": ""
+        },
+        {
+            "source": "images/portfolio/music/BadBunny_042218_097.jpg",
+            "caption": ""
+        },
+        {
+            "source": "images/portfolio/music/PaulMcCartney&NeilYoung.jpg",
+            "caption": ""
+        },
+        {
+            "source": "images/portfolio/music/Weezer.jpg",
+            "caption": ""
+        },
+        {
+            "source": "images/portfolio/music/Radiohead.jpg",
+            "caption": ""
+        },
+        {
+            "source": "images/portfolio/music/Lorde.jpg",
+            "caption": ""
+        },
+        {
+            "source": "images/portfolio/music/Incubus.jpg",
+            "caption": ""
+        },
+        {
+            "source": "images/portfolio/music/A-Trak.jpg",
+            "caption": ""
+        },
+        {
+            "source": "images/portfolio/music/CrystalCastles.jpg",
+            "caption": ""
+        },
+        {
+            "source": "images/portfolio/music/RedHotChiliPeppers.jpg",
+            "caption": ""
+        },
+        {
+            "source": "images/portfolio/music/FooFighters.jpg",
+            "caption": ""
+        },
+        {
+            "source": "images/portfolio/music/Sia.jpg",
+            "caption": ""
+        },
+        {
+            "source": "images/portfolio/music/Misfits.jpg",
+            "caption": ""
+        },
+        {
+            "source": "images/portfolio/music/ProphetsOfRage.jpg",
+            "caption": ""
+        },
+        {
+            "source": "images/portfolio/music/TheKills.jpg",
+            "caption": ""
+        },
+        {
+            "source": "images/portfolio/music/YoGotti_111817_1070.jpg",
+            "caption": ""
+        }]
+    },
+    {
+        "name": "portraits",
+        "images": [
+        {
+            "source": "images/portfolio/portraits/Aoki1.jpg",
+            "caption": ""
+        },
+        {
+            "source": "images/portfolio/portraits/5D4_0399 copy.jpg",
+            "caption": ""
+        },
+        {
+            "source": "images/portfolio/portraits/XO2A1650 copy.jpg",
+            "caption": ""
+        },
+        {
+            "source": "images/portfolio/portraits/IMG_9531.jpg",
+            "caption": ""
+        },
+        {
+            "source": "images/portfolio/portraits/5D4_5536 copy.jpg",
+            "caption": ""
+        },
+        {
+            "source": "images/portfolio/portraits/Portrait007.jpg",
+            "caption": ""
+        },
+        {
+            "source": "images/portfolio/portraits/5D4_7674 copy.jpg",
+            "caption": ""
+        },
+        {
+            "source": "images/portfolio/portraits/XO2A7766.jpg",
+            "caption": ""
+        },
+        {
+            "source": "images/portfolio/portraits/XO2A4400.jpg",
+            "caption": ""
+        },
+        {
+            "source": "images/portfolio/portraits/XO2A0488_soft.jpg",
+            "caption": ""
+        },
+        {
+            "source": "images/portfolio/portraits/XO2A0260_bw.jpg",
+            "caption": ""
+        },
+        {
+            "source": "images/portfolio/portraits/IMG_2311.jpg",
+            "caption": ""
+        },
+        {
+            "source": "images/portfolio/portraits/5D4_8376.jpg",
+            "caption": ""
+        },
+        {
+            "source": "images/portfolio/portraits/IMG_9651.jpg",
+            "caption": ""
+        },
+        {
+            "source": "images/portfolio/portraits/XO2A0141.jpg",
+            "caption": ""
+        },
+        {
+            "source": "images/portfolio/portraits/Portrait012.jpg",
+            "caption": ""
+        },
+        {
+            "source": "images/portfolio/portraits/XO2A8443 2.jpg",
+            "caption": ""
+        },
+        {
+            "source": "images/portfolio/portraits/XO2A1121.jpg",
+            "caption": ""
+        },
+        {
+            "source": "images/portfolio/portraits/XO2A5050 copy.jpg",
+            "caption": ""
+        },
+        {
+            "source": "images/portfolio/portraits/XO2A0317.jpg",
+            "caption": ""
+        },
+        {
+            "source": "images/portfolio/portraits/5D4_5139.jpg",
+            "caption": ""
+        },
+        {
+            "source": "images/portfolio/portraits/CharlesBradley.jpg",
+            "caption": ""
+        },
+        {
+            "source": "images/portfolio/portraits/5D4_8234.jpg",
+            "caption": ""
+        },
+        {
+            "source": "images/portfolio/portraits/XO2A0553_color.jpg",
+            "caption": ""
+        },
+        {
+            "source": "images/portfolio/portraits/XO2A0603.jpg",
+            "caption": ""
+        },
+        {
+            "source": "images/portfolio/portraits/5D4_9368.jpg",
+            "caption": ""
+        },
+        {
+            "source": "images/portfolio/portraits/Portrait008.jpg",
+            "caption": ""
+        },
+        {
+            "source": "images/portfolio/portraits/XO2A0564.jpg",
+            "caption": ""
+        },
+        {
+            "source": "images/portfolio/portraits/XO2A3104 copy.jpg",
+            "caption": ""
+        },
+        {
+            "source": "images/portfolio/portraits/XO2A0374 copy.jpg",
+            "caption": ""
+        },
+        {
+            "source": "images/portfolio/portraits/XO2A0205 copy.jpg",
+            "caption": ""
+        },
+        {
+            "source": "images/portfolio/portraits/XO2A8145.jpg",
+            "caption": ""
+        },
+        {
+            "source": "images/portfolio/portraits/XO2A4523 copy.jpg",
+            "caption": ""
+        },
+        {
+            "source": "images/portfolio/portraits/PerryFarrell.jpg",
+            "caption": ""
+        },
+        {
+            "source": "images/portfolio/portraits/XO2A4920.jpg",
+            "caption": ""
+        },
+        {
+            "source": "images/portfolio/portraits/XO2A7850.jpg",
+            "caption": ""
+        },
+        {
+            "source": "images/portfolio/portraits/XO2A9687.jpg",
+            "caption": ""
+        }]
+    },
+    {
+        "name": "weddings",
+        "images": [
+        {
+            "source": "images/portfolio/weddings/IMG_3174 copy.jpg",
+            "caption": ""
+        },
+        {
+            "source": "images/portfolio/weddings/IMG_4464 copy.jpg",
+            "caption": ""
+        },
+        {
+            "source": "images/portfolio/weddings/J&J_100.jpg",
+            "caption": ""
+        },
+        {
+            "source": "images/portfolio/weddings/5D4_6776 copy.jpg",
+            "caption": ""
+        },
+        {
+            "source": "images/portfolio/weddings/IMG_4520.jpg",
+            "caption": ""
+        },
+        {
+            "source": "images/portfolio/weddings/IMG_4384 copy.jpg",
+            "caption": ""
+        },
+        {
+            "source": "images/portfolio/weddings/J&D_0061.jpg",
+            "caption": ""
+        },
+        {
+            "source": "images/portfolio/weddings/J&D_0620.jpg",
+            "caption": ""
+        },
+        {
+            "source": "images/portfolio/weddings/IMG_4715.jpg",
+            "caption": ""
+        },
+        {
+            "source": "images/portfolio/weddings/IMG_7658 copy.jpg",
+            "caption": ""
+        },
+        {
+            "source": "images/portfolio/weddings/J&D_0220.jpg",
+            "caption": ""
+        },
+        {
+            "source": "images/portfolio/weddings/J&J_308.jpg",
+            "caption": ""
+        },
+        {
+            "source": "images/portfolio/weddings/IMG_9985 copy.jpg",
+            "caption": ""
+        },
+        {
+            "source": "images/portfolio/weddings/Lisa&Matthew_3.10.18_010.jpg",
+            "caption": ""
+        },
+        {
+            "source": "images/portfolio/weddings/J&J_208.jpg",
+            "caption": ""
+        },
+        {
+            "source": "images/portfolio/weddings/Lisa&Matthew_3.10.18_039.jpg",
+            "caption": ""
+        },
+        {
+            "source": "images/portfolio/weddings/Lisa&Matthew_3.10.18_129.jpg",
+            "caption": ""
+        },
+        {
+            "source": "images/portfolio/weddings/Mark&Tom_043.jpg",
+            "caption": ""
+        },
+        {
+            "source": "images/portfolio/weddings/XO2A7842.jpg",
+            "caption": ""
+        },
+        {
+            "source": "images/portfolio/weddings/Mark&Tom_052.jpg",
+            "caption": ""
+        },
+        {
+            "source": "images/portfolio/weddings/R&K_258.jpg",
+            "caption": ""
+        },
+        {
+            "source": "images/portfolio/weddings/R&K_377.jpg",
+            "caption": ""
+        }]
+    },
+    {
+        "name": "events",
+        "images": [
+        {
+            "source": "images/portfolio/events/img_0128 copy.jpg",
+            "caption": ""
+        },
+        {
+            "source": "images/portfolio/events/XO2A0626 copy.jpg",
+            "caption": ""
+        },
+        {
+            "source": "images/portfolio/events/IMG_8950 copy.jpg",
+            "caption": ""
+        },
+        {
+            "source": "images/portfolio/events/XO2A0063.jpg",
+            "caption": ""
+        },
+        {
+            "source": "images/portfolio/events/IMG_0147.jpg",
+            "caption": ""
+        },
+        {
+            "source": "images/portfolio/events/5D4_5698 copy.jpg",
+            "caption": ""
+        },
+        {
+            "source": "images/portfolio/events/IMG_9095.jpg",
+            "caption": ""
+        },
+        {
+            "source": "images/portfolio/events/11233095_557720121036033_7388343784593465227_o.jpg",
+            "caption": ""
+        },
+        {
+            "source": "images/portfolio/events/XO2A7616 copy.jpg",
+            "caption": ""
+        },
+        {
+            "source": "images/portfolio/events/IMG_1963 copy.jpg",
+            "caption": ""
+        },
+        {
+            "source": "images/portfolio/events/XO2A0132 copy.jpg",
+            "caption": ""
+        },
+        {
+            "source": "images/portfolio/events/XO2A0005 copy.jpg",
+            "caption": ""
+        },
+        {
+            "source": "images/portfolio/events/IMG_5886.jpg",
+            "caption": ""
+        },
+        {
+            "source": "images/portfolio/events/5D4_5460.jpg",
+            "caption": ""
+        },
+        {
+            "source": "images/portfolio/events/XO2A9814 copy.jpg",
+            "caption": ""
+        },
+        {
+            "source": "images/portfolio/events/XO2A4387.jpg",
+            "caption": ""
+        },
+        {
+            "source": "images/portfolio/events/Sports005.jpg",
+            "caption": ""
+        },
+        {
+            "source": "images/portfolio/events/XO2A0217 copy.jpg",
+            "caption": ""
+        },
+        {
+            "source": "images/portfolio/events/IMG_0546 copy.jpg",
+            "caption": ""
+        },
+        {
+            "source": "images/portfolio/events/XO2A0181 copy.jpg",
+            "caption": ""
+        },
+        {
+            "source": "images/portfolio/events/11109616_518718354936210_6489969256082925572_o.jpg",
+            "caption": ""
+        },
+        {
+            "source": "images/portfolio/events/IMG_1757 copy.jpg",
+            "caption": ""
+        },
+        {
+            "source": "images/portfolio/events/XO2A9945 copy.jpg",
+            "caption": ""
+        },
+        {
+            "source": "images/portfolio/events/XO2A0560 copy.jpg",
+            "caption": ""
+        },
+        {
+            "source": "images/portfolio/events/XO2A0010 copy.jpg",
+            "caption": ""
+        },
+        {
+            "source": "images/portfolio/events/XO2A9884 copy.jpg",
+            "caption": ""
+        },
+        {
+            "source": "images/portfolio/events/XO2A0676.jpg",
+            "caption": ""
+        },
+        {
+            "source": "images/portfolio/events/IMG_0007.jpg",
+            "caption": ""
+        },
+        {
+            "source": "images/portfolio/events/XO2A0741 copy.jpg",
+            "caption": ""
+        },
+        {
+            "source": "images/portfolio/events/XO2A1580.jpg",
+            "caption": ""
+        },
+        {
+            "source": "images/portfolio/events/XO2A5731 copy.jpg",
+            "caption": ""
+        },
+        {
+            "source": "images/portfolio/events/XO2A2446.jpg",
+            "caption": ""
+        },
+        {
+            "source": "images/portfolio/events/XO2A0071.jpg",
+            "caption": ""
+        },
+        {
+            "source": "images/portfolio/events/IMG_5049_3_resized.jpg",
+            "caption": ""
+        },
+        {
+            "source": "images/portfolio/events/XO2A4179.jpg",
+            "caption": ""
+        },
+        {
+            "source": "images/portfolio/events/XO2A4392.jpg",
+            "caption": ""
+        },
+        {
+            "source": "images/portfolio/events/XO2A9985.jpg",
+            "caption": ""
+        },
+        {
+            "source": "images/portfolio/events/IMG_9090 2 copy.jpg",
+            "caption": ""
+        },
+        {
+            "source": "images/portfolio/events/XO2A8074.jpg",
+            "caption": ""
+        },
+        {
+            "source": "images/portfolio/events/XO2A4582.jpg",
+            "caption": ""
+        },
+        {
+            "source": "images/portfolio/events/XO2A5412.jpg",
+            "caption": ""
+        },
+        {
+            "source": "images/portfolio/events/XO2A3793.jpg",
+            "caption": ""
+        },
+        {
+            "source": "images/portfolio/events/XO2A7956.jpg",
+            "caption": ""
+        },
+        {
+            "source": "images/portfolio/events/XO2A3833.jpg",
+            "caption": ""
+        },
+        {
+            "source": "images/portfolio/events/XO2A0600 copy.jpg",
+            "caption": ""
+        },
+        {
+            "source": "images/portfolio/events/XO2A4162.jpg",
+            "caption": ""
+        },
+        {
+            "source": "images/portfolio/events/XO2A2485.jpg",
+            "caption": ""
+        },
+        {
+            "source": "images/portfolio/events/XO2A7991.jpg",
+            "caption": ""
+        }]
+    },
+    {
+        "name": "landscapes",
+        "images": [
+        {
+            "source": "images/portfolio/landscapes/Scapes004.jpg",
+            "caption": ""
+        },
+        {
+            "source": "images/portfolio/landscapes/IMG_8289_lr.jpg",
+            "caption": ""
+        },
+        {
+            "source": "images/portfolio/landscapes/IMG_0177.jpg",
+            "caption": ""
+        },
+        {
+            "source": "images/portfolio/landscapes/IMG_8267.jpg",
+            "caption": ""
+        },
+        {
+            "source": "images/portfolio/landscapes/XO2A5041 copy.jpg",
+            "caption": ""
+        },
+        {
+            "source": "images/portfolio/landscapes/XO2A5053 copy.jpg",
+            "caption": ""
+        },
+        {
+            "source": "images/portfolio/landscapes/IMG_5802.jpg",
+            "caption": ""
+        },
+        {
+            "source": "images/portfolio/landscapes/Phone004.jpg",
+            "caption": ""
+        },
+        {
+            "source": "images/portfolio/landscapes/IMG_5770.jpg",
+            "caption": ""
+        },
+        {
+            "source": "images/portfolio/landscapes/Phone003.jpg",
+            "caption": ""
+        },
+        {
+            "source": "images/portfolio/landscapes/IMG_5817.jpg",
+            "caption": ""
+        },
+        {
+            "source": "images/portfolio/landscapes/Phone005.jpg",
+            "caption": ""
+        },
+        {
+            "source": "images/portfolio/landscapes/Scapes005.jpg",
+            "caption": ""
+        },
+        {
+            "source": "images/portfolio/landscapes/XO2A4269.jpg",
+            "caption": ""
+        },
+        {
+            "source": "images/portfolio/landscapes/Scapes003.jpg",
+            "caption": ""
+        },
+        {
+            "source": "images/portfolio/landscapes/IMG_0349 copy.jpg",
+            "caption": ""
+        },
+        {
+            "source": "images/portfolio/landscapes/XO2A5045 copy.jpg",
+            "caption": ""
+        }]
+    },
+    {
+        "hidden": true,
+        "name": "unassigned",
+        "images": [
+        {
+            "source": "images/portfolio/landscapes/Scapes004.jpg",
+            "caption": ""
+        },
+        {
+            "source": "images/portfolio/landscapes/IMG_8289_lr.jpg",
+            "caption": ""
+        },
+        {
+            "source": "images/portfolio/landscapes/IMG_0177.jpg",
+            "caption": ""
+        },
+        {
+            "source": "images/portfolio/landscapes/IMG_8267.jpg",
+            "caption": ""
+        },
+        {
+            "source": "images/portfolio/landscapes/XO2A5041 copy.jpg",
+            "caption": ""
+        },
+        {
+            "source": "images/portfolio/landscapes/XO2A5053 copy.jpg",
+            "caption": ""
+        },
+        {
+            "source": "images/portfolio/landscapes/IMG_5802.jpg",
+            "caption": ""
+        },
+        {
+            "source": "images/portfolio/landscapes/Phone004.jpg",
+            "caption": ""
+        },
+        {
+            "source": "images/portfolio/landscapes/IMG_5770.jpg",
+            "caption": ""
+        },
+        {
+            "source": "images/portfolio/landscapes/Phone003.jpg",
+            "caption": ""
+        },
+        {
+            "source": "images/portfolio/landscapes/IMG_5817.jpg",
+            "caption": ""
+        },
+        {
+            "source": "images/portfolio/landscapes/Phone005.jpg",
+            "caption": ""
+        },
+        {
+            "source": "images/portfolio/landscapes/Scapes005.jpg",
+            "caption": ""
+        },
+        {
+            "source": "images/portfolio/landscapes/XO2A4269.jpg",
+            "caption": ""
+        },
+        {
+            "source": "images/portfolio/landscapes/Scapes003.jpg",
+            "caption": ""
+        },
+        {
+            "source": "images/portfolio/landscapes/IMG_0349 copy.jpg",
+            "caption": ""
+        },
+        {
+            "source": "images/portfolio/landscapes/XO2A5045 copy.jpg",
+            "caption": ""
+        }]
+    }],
+    "slider": [
+    {
+        "source": "images/slider/slider1.jpg"
+    },
+    {
+        "source": "images/slider/slider2.jpg"
+    },
+    {
+        "source": "images/slider/slider3.jpg"
+    },
+    {
+        "source": "images/slider/slider4.jpg"
+    },
+    {
+        "source": "images/slider/slider5.jpg"
+    },
+    {
+        "source": "images/slider/slider6.jpg"
+    },
+    {
+        "source": "images/slider/slider7.jpg"
+    },
+    {
+        "source": "images/slider/slider8.jpg"
+    },
+    {
+        "source": "images/slider/slider9.jpg"
+    },
+    {
+        "source": "images/slider/slider10.jpg"
+    },
+    {
+        "source": "images/slider/slider11.jpg"
+    },
+    {
+        "source": "images/slider/slider12.jpg"
+    },
+    {
+        "source": "images/slider/slider13.jpg"
+    },
+    {
+        "source": "images/slider/slider14.jpg"
+    }]
+}
