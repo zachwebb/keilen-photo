@@ -13,7 +13,7 @@ Photography portfolio for photographer [Andy Keilen](https://keilenphotography.c
 [//]: # (These are reference links used in the body of this note and get stripped out when the markdown processor does its job. There is no need to format nicely because it shouldn't be seen. Thanks SO - http://stackoverflow.com/questions/4823468/store-comments-in-markdown-syntax)
 
    [Handlebars]: <https://handlebarsjs.com/>
-   [Twitter Bootstrap]: <http://twitter.github.com/bootstrap/>
+   [Bootstrap]: <https://github.com/twbs/bootstrap>
    [jQuery]: <http://jquery.com>
    [FontAwesome]: <https://fontawesome.com/>
    
